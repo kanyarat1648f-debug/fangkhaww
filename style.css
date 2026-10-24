@@ -1,11 +1,11 @@
 :root {
-  --paper: #f4edd3;
+  --paper: #66f0b0;
   --card: #ffffff;
-  --ink: #111111;
-  --muted: #44403c;
-  --red: #ff3333;
-  --accent-blue: #2563eb;
-  --accent-yellow: #facc15;
+  --ink: #ff1f62;
+  --muted: #a82020;
+  --red: #110101;
+  --accent-blue: #fa41a7;
+  --accent-yellow: #48be75;
 
   --font-display: 'Big Shoulders Display', Impact, sans-serif;
   --font-body: 'Anuphan', Tahoma, sans-serif;
@@ -23,7 +23,7 @@ body {
   font-family: var(--font-body);
   font-size: 16px;
   line-height: 1.6;
-  background-image: radial-gradient(#d4c9a8 1px, transparent 1px);
+  background-image: radial-gradient(#022ff7 1px, transparent 1px);
   background-size: 24px 24px;
 }
 
